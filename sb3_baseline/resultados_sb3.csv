@@ -1,0 +1,2 @@
+env,steps,mean_reward,std,seed
+ALE/SpaceInvaders-v5,500000,254.0,148.42169652715873,42
